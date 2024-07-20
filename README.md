@@ -2,9 +2,13 @@
 In mainland China, the <a href="https://www.nppa.gov.cn_" rel="noopener noreferrer">National Press and Publication Administration</a> (<span lang="zh-cmn-Hans">国家新闻出版署</span>) approves all video games for release, regardless of whether it was developed domestically or internationally.
 New Pokémon Snap was <a href="https://www.nppa.gov.cn_bsfw/jggs/yxspjg/jkwlyxspxx/202402/t20240202_831561.html" rel="noopener noreferrer">approved for release</a> on February 1, 2024, and was released for the Nintendo Switch on July 16 that year.
 
+The following changes are present between the Simplified Chinese language option released internationally and the mainland Chinese release.
+Note that while we can see that these changes are present, we can't necessarily tell *who* was behind the change:
+some of these changes may have been pre-emptive self-censorship by Nintendo, iQue, or Tencent rather than censored by the Chinese government per se.
+
 
 ## Game title and logo
-<table style="text-align: center">
+<table>
 <tr>
 <th>Context</th>
 <th>China</th>
@@ -32,13 +36,13 @@ New Pokémon Snap was <a href="https://www.nppa.gov.cn_bsfw/jggs/yxspjg/jkwlyxsp
 </tr>
 </table>
 
-English words, especially those code-mixed with Chinese, are not allowed.
+Games with English words, especially those code-mixed with Chinese, often don't get approval.
 This notably affects the title of the game, which swaps the English word "new" for the Chinese word for "new", <i>xīn</i> (<span lang="zh-cmn-Hans">新</span>).
 This also affects the photo frames that include the game's logo.
 
 
 ## The global lingua franca
-<table style="text-align: center">
+<table>
 <tr>
 <th>China</th>
 <th>International</th>
@@ -65,7 +69,7 @@ However, for the mainland Chinese version, these graphics are replaced with ones
 
 
 ## Untranslatable onomatopoeia
-<table style="text-align: center">
+<table>
 <tr>
 <th>Context</th>
 <th>China</th>
@@ -116,7 +120,7 @@ Because of this, these depictions of the sun have been changed to ones that less
 
 
 ## Knock-on effects
-<table style="text-align: center">
+<table>
 <tr>
 <th>Context</th>
 <th>China</th>
@@ -162,7 +166,6 @@ I'll describe the differences for each in turn:
 <th>Pokémon</th>
 <th>China</th>
 <th>International</th>
-<th>Changes</th>
 </tr>
 <tr>
 <td>Seviper<br><span lang="zh-cmn-Hans">饭匙蛇</span></td>
@@ -176,7 +179,6 @@ I'll describe the differences for each in turn:
 所以它经常在打磨尾巴上的刀刃吧。<br>
 它的刀刃不但锋利，<br>
 还会<mark>渗出剧毒，极其危险</mark>。</td>
-<td>Remove "<span lang="zh-cmn-Hans">剧毒</span>" (highly toxic)</td>
 </tr>
 <tr>
 <td>Koffing<br><span lang="zh-cmn-Hans">瓦斯弹</span></td>
@@ -190,7 +192,6 @@ I'll describe the differences for each in turn:
 它之所以有时会胀得很大，<br>
 是因为毒沼泽的成分<br>
 促进了化学变化。</td>
-<td>Remove "<span lang="zh-cmn-Hans">剧毒</span>" (highly toxic)</td>
 </tr>
 <tr>
 <td>Houndoom<br><span lang="zh-cmn-Hans">黑鲁加</span></td>
@@ -204,8 +205,6 @@ I'll describe the differences for each in turn:
 通过默契配合守护遗迹。<br>
 它们长嚎的声音很<mark>恐怖</mark>，<br>
 被人们称为“<mark>地狱</mark>之声”。</td>
-<td>Remove "<span lang="zh-cmn-Hans">恐怖</span>" (terror), "<span lang="zh-cmn-Hans">地狱</span>" (hell)<br>
-Replace with "<span lang="zh-cmn-Hans">可怕</span>" (scary), "<span lang="zh-cmn-Hans">深渊</span>" (abyss)</td>
 </tr>
 <tr>
 <td>Crabominable<br><span lang="zh-cmn-Hans">好胜毛蟹</span></td>
@@ -219,9 +218,13 @@ Replace with "<span lang="zh-cmn-Hans">可怕</span>" (scary), "<span lang="zh-c
 先把拳头挥出去再说。<br>
 <mark>打架打得起劲</mark>时，<br>
 能发挥出巨大的力量。</td>
-<td>Replace "<span lang="zh-cmn-Hans">打架</span>" (fight, scuffle)<br>Replace with "<span lang="zh-cmn-Hans">战斗</span>" (battle, combat)</td>
 </tr>
 </table>
+
+These changes primary reword text to avoid sensitive words:
+- **Seviper/Koffing**: Remove "<span lang="zh-cmn-Hans">剧毒</span>" (highly toxic)
+- **Houndoom**: Remove "<span lang="zh-cmn-Hans">恐怖</span>" (terror), "<span lang="zh-cmn-Hans">地狱</span>" (hell), replace with "<span lang="zh-cmn-Hans">可怕</span>" (scary), "<span lang="zh-cmn-Hans">深渊</span>" (abyss)
+- **Crabominable**: Replace "<span lang="zh-cmn-Hans">打架</span>" (fight, scuffle), replace with "<span lang="zh-cmn-Hans">战斗</span>" (battle, combat)
 
 
 ## Miscellany
