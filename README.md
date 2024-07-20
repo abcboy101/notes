@@ -154,7 +154,7 @@ I'll describe the differences for each in turn:
 - The "NEW" stamp has been changed out. The photo that was taken on the Vivillon itself is also different.
 - The decorative text on the currently selected option is changed from "Labo" to "<span lang="zh-cmn-Hans">研究室</span>" (Laboratory), matching the plain text on the label.
 - Several pieces of English text were removed: "No.", and the the SI symbols for meters ("m"), and kilograms ("kg").
-  These were translated as their Chinese equivalents "<span lang="zh-cmn-Hans">编号</span>" (number), "<span lang="zh-cmn-Hans">米千</span>" (meters), "<span lang="zh-cmn-Hans">克</span>" (kilograms).
+  These were translated as their Chinese equivalents "<span lang="zh-cmn-Hans">编号</span>" (number), "<span lang="zh-cmn-Hans">米</span>" (meters), "<span lang="zh-cmn-Hans">千克</span>" (kilograms).
   They haven't had to do this previously on the TCG cards, so we'll have to see whether this will carry over to the main games.
 - The international version has two online rankings: "All Languages" and "Your Language".
   Since the mainland Chinese version doesn't communicate online with the international version, the "All Languages" option is removed.
