@@ -170,12 +170,12 @@ I'll describe the differences for each in turn:
 或许是因为饭匙蛇性格一丝不苟，<br>
 所以它经常在打磨尾巴上的刀刃吧。<br>
 它的刀刃不但锋利，<br>
-还会<span style="color: green">分泌毒液。</span></td>
+还会<mark>分泌毒液。</mark></td>
 <td lang="zh-cmn-Hans">
 或许是因为饭匙蛇性格一丝不苟，<br>
 所以它经常在打磨尾巴上的刀刃吧。<br>
 它的刀刃不但锋利，<br>
-还会<span style="color: green">渗出剧毒，极其危险。</span></td>
+还会<mark>渗出剧毒，极其危险。</mark></td>
 <td>Remove "<span lang="zh-cmn-Hans">剧毒</span>" (highly toxic)</td>
 </tr>
 <tr>
@@ -186,7 +186,7 @@ I'll describe the differences for each in turn:
 是因为毒沼泽的成分<br>
 促进了化学变化。</td>
 <td lang="zh-cmn-Hans">
-身体里充满了带<span style="color: green">有剧</span>毒的瓦斯。<br>
+身体里充满了带<mark>有剧</mark>毒的瓦斯。<br>
 它之所以有时会胀得很大，<br>
 是因为毒沼泽的成分<br>
 促进了化学变化。</td>
@@ -197,13 +197,13 @@ I'll describe the differences for each in turn:
 <td lang="zh-cmn-Hans">
 黑鲁加会采取群体行动，<br>
 通过默契配合守护遗迹。<br>
-它们长嚎的声音很<span style="color: green">可怕</span>，<br>
-被人们称为“<span style="color: green">深渊</span>之声”。</td>
+它们长嚎的声音很<mark>可怕</mark>，<br>
+被人们称为“<mark>深渊</mark>之声”。</td>
 <td lang="zh-cmn-Hans">
 黑鲁加会采取群体行动，<br>
 通过默契配合守护遗迹。<br>
-它们长嚎的声音很<span style="color: green">恐怖</span>，<br>
-被人们称为“<span style="color: green">地狱</span>之声”。</td>
+它们长嚎的声音很<mark>恐怖</mark>，<br>
+被人们称为“<mark>地狱</mark>之声”。</td>
 <td>Remove "<span lang="zh-cmn-Hans">恐怖</span>" (terror), "<span lang="zh-cmn-Hans">地狱</span>" (hell)<br>
 Replace with "<span lang="zh-cmn-Hans">可怕</span>" (scary), "<span lang="zh-cmn-Hans">深渊</span>" (abyss)</td>
 </tr>
@@ -212,12 +212,12 @@ Replace with "<span lang="zh-cmn-Hans">可怕</span>" (scary), "<span lang="zh-c
 <td lang="zh-cmn-Hans">
 凡事不经过大脑，<br>
 先把拳头挥出去再说。<br>
-<span style="color: green">战斗到白热化</span>时，<br>
+<mark>战斗到白热化</mark>时，<br>
 能发挥出巨大的力量。</td>
 <td lang="zh-cmn-Hans">
 凡事不经过大脑，<br>
 先把拳头挥出去再说。<br>
-<span style="color: green">打架打得起劲</span>时，<br>
+<mark>打架打得起劲</mark>时，<br>
 能发挥出巨大的力量。</td>
 <td>Replace "<span lang="zh-cmn-Hans">打架打得起劲</span>" (fight vigorously)<br>Replace with "<span lang="zh-cmn-Hans">打架打得起劲</span>" (battle reaches its climax)</td>
 </tr>
