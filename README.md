@@ -73,8 +73,8 @@ However, for the mainland Chinese version, these graphics are replaced with ones
 </tr>
 <tr>
 <td>Sticker</td>
-<td><img src="cn/stamp_0143.png" alt="熟睡中……" width="256" height="256"></td>
-<td><img src="intl/stamp_0143.png" alt="Zzz..." width="256" height="256"></td>
+<td><img src="cn/stamp_0143.png" alt="熟睡中……" width="128" height="128"></td>
+<td><img src="intl/stamp_0143.png" alt="Zzz..." width="128" height="128"></td>
 </tr>
 <tr>
 <td>Text</td>
@@ -148,9 +148,9 @@ Because of the changes I've covered above, as well as others I haven't mentioned
 I'll describe the differences for each in turn:
 
 - The "NEW" stamp has been changed out. The photo that was taken on the Vivillon itself is also different.
-- The decorative text is changed from "Labo" to "研究室" (Laboratory), matching the plain text on the label.
+- The decorative text on the currently selected option is changed from "Labo" to "<span lang="zh-cmn-Hans">研究室</span>" (Laboratory), matching the plain text on the label.
 - Several pieces of English text were removed: "No.", and the the SI symbols for meters ("m"), and kilograms ("kg").
-  These were translated as their Chinese equivalents "编号" (number), "米千" (meters), "克" (kilograms).
+  These were translated as their Chinese equivalents "<span lang="zh-cmn-Hans">编号</span>" (number), "<span lang="zh-cmn-Hans">米千</span>" (meters), "<span lang="zh-cmn-Hans">克</span>" (kilograms).
   They haven't had to do this previously on the TCG cards, so we'll have to see whether this will carry over to the main games.
 - The international version has two online rankings: "All Languages" and "Your Language".
   Since the mainland Chinese version doesn't communicate online with the international version, the "All Languages" option is removed.
@@ -224,7 +224,13 @@ Replace with "<span lang="zh-cmn-Hans">可怕</span>" (scary), "<span lang="zh-c
 </table>
 
 
-## Further reading
+## Miscellany
 Due to its much later release date, the copyright date is changed from 2021 to 2023.
 
-There are some other minor changes that mostly fall into the category of removing English text; you can find these by checking out the <a href="https://bulbapedia.bulbagarden.net/wiki/User:Abcboy#Text_dumps" rel="noopener noreferrer">text dumps</a> yourself.
+The Report function in the online gallery is removed.
+I assume that they're checking any uploaded photos before publicly displaying it, so there's no need for community-based moderation.
+
+
+## Further reading
+There are some other minor changes that generally fall into the same vein as the changes I've already described;
+you can find these by checking out the <a href="https://bulbapedia.bulbagarden.net/wiki/User:Abcboy#Text_dumps" rel="noopener noreferrer">text dumps</a> yourself.
