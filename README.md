@@ -170,12 +170,12 @@ I'll describe the differences for each in turn:
 或许是因为饭匙蛇性格一丝不苟，<br>
 所以它经常在打磨尾巴上的刀刃吧。<br>
 它的刀刃不但锋利，<br>
-还会<mark>分泌毒液。</mark></td>
+还会<mark>分泌毒液</mark>。</td>
 <td lang="zh-cmn-Hans">
 或许是因为饭匙蛇性格一丝不苟，<br>
 所以它经常在打磨尾巴上的刀刃吧。<br>
 它的刀刃不但锋利，<br>
-还会<mark>渗出剧毒，极其危险。</mark></td>
+还会<mark>渗出剧毒，极其危险</mark>。</td>
 <td>Remove "<span lang="zh-cmn-Hans">剧毒</span>" (highly toxic)</td>
 </tr>
 <tr>
@@ -219,7 +219,7 @@ Replace with "<span lang="zh-cmn-Hans">可怕</span>" (scary), "<span lang="zh-c
 先把拳头挥出去再说。<br>
 <mark>打架打得起劲</mark>时，<br>
 能发挥出巨大的力量。</td>
-<td>Replace "<span lang="zh-cmn-Hans">打架打得起劲</span>" (fight vigorously)<br>Replace with "<span lang="zh-cmn-Hans">打架打得起劲</span>" (battle reaches its climax)</td>
+<td>Replace "<span lang="zh-cmn-Hans">打架</span>" (fight, scuffle)<br>Replace with "<span lang="zh-cmn-Hans">战斗</span>" (battle, combat)</td>
 </tr>
 </table>
 
