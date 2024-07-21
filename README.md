@@ -237,5 +237,3 @@ I assume that they're checking any uploaded photos before publicly displaying it
 ## Further reading
 There are some other minor changes that generally fall into the same vein as the changes I've already described;
 you can find these by checking out the <a href="https://bulbapedia.bulbagarden.net/wiki/User:Abcboy#Text_dumps" rel="noopener noreferrer">text dumps</a> yourself.
-
-Special thanks to <span lang="zh-cmn-Hans">云玩家本本子</span> for providing the Chinese game data.
