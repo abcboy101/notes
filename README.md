@@ -116,7 +116,7 @@ This is replaced with <i>Shúshuì zhōng...</i> (<span lang="zh-cmn-Hans">熟�
 </table>
 The sticker, time of day marker, and profile icon featuring the sun are changed from having triangular rays to having dots or rectangles instead.
 For those unfamiliar, the <a href="https://en.wikipedia.org/wiki/Blue_Sky_with_a_White_Sun" rel="noopener noreferrer">Blue Sky with a White Sun</a> (<span lang="zh-cmn-Hans">青天白日</span>), a white circle surrounded by 12 triangles on a blue circle, is a symbol often associated with <a href="https://en.wikipedia.org/wiki/Taiwan" rel="noopener noreferrer">Taiwan, the Republic of China</a>, and the <a href="https://en.wikipedia.org/wiki/Kuomintang">Kuomintang (Chinese Nationalist Party)</a>.
-Because of this, these depictions of the sun have been changed to ones that less closely resemble the Blue Sky with a White Sun emblem.
+Because of this, these depictions of the sun may have been changed to ones that less closely resemble the Blue Sky with a White Sun emblem.
 
 
 ## Knock-on effects
