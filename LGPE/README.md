@@ -1,6 +1,6 @@
 # Let's Go, Pikachu/Eevee!
 In mainland China, the <a href="https://www.nppa.gov.cn/" rel="noopener noreferrer">National Press and Publication Administration</a> (<span lang="zh-cmn-Hans">国家新闻出版署</span>) approves all video games for release, regardless of whether it was developed domestically or internationally.
-Almost six years after its original release in 2024, <i>Pokémon: Let's Go, Eevee!</i> was <a href="https://www.nppa.gov.cn/bsfw/jggs/yxspjg/jkwlyxspxx/202402/t20240202_831561.html" rel="noopener noreferrer">approved for release</a> on April 7, <i>Pokémon: Let's Go, Pikachu!</i> was approved for release on June 5, and both games were released for the Nintendo Switch on September 26 that year. This makes it the second Pokémon game release on the Nintendo Switch in mainland China, after [New Pokémon Snap](../NPS/README.md).
+Almost six years after its original release, <i>Pokémon: Let's Go, Eevee!</i> was <a href="https://www.nppa.gov.cn/bsfw/jggs/yxspjg/jkwlyxspxx/202402/t20240202_831561.html" rel="noopener noreferrer">approved for release</a> on April 7, <i>Pokémon: Let's Go, Pikachu!</i> was approved for release on June 5, and both games were released for the Nintendo Switch on September 26, 2024. This makes it the second Pokémon game release on the Nintendo Switch in mainland China, after [New Pokémon Snap](../NPS/README.md).
 
 The following changes are present between the Simplified Chinese language option released internationally and the mainland Chinese release.
 Note that while we can see that these changes are present, we can't necessarily tell *who* was behind the change:
@@ -184,8 +184,9 @@ A total of 61 moves had their animations changed. While I haven't checked all of
 </table>
 
 These three moves are the only ones to have had their models changed.
-Because the color red is commonly associated with blood and violence,
-the color of these hands and feet were changed from red to blue.
+The color of these hands and feet were changed from red to blue.
+This is likely because the color red is associated with blood and violence,
+so changing the colors to blue might help tone it down.
 
 <table>
 <tr>
@@ -777,7 +778,7 @@ The "THE END" screen after the credits is also translated into Chinese.
 ## Sensitive words
 There are several changes to move, Ability, and item names that we already saw starting in the international versions of Pokémon Brilliant Diamond and Shining Pearl.
 It's probable that most of the work that was done on LGPE for China was already finished by the time BDSP came out.
-None of these changes are included below.
+None of these changes are included below, and I'll instead focus on changes that haven't been seen in the international versions.
 
 ### Trainer types
 The names of the following types of Trainers were changed:
@@ -1008,4 +1009,4 @@ These changes primarily reword text to tone down the violence and mentions of de
 There are some other minor text changes that generally fall into the same vein as the changes I've already described;
 you can find these on <a href="https://abcboy101.github.io/poke-corpus/#query=WHERE+zh-Hans+%21%3D+zh-Hans-CN&type=boolean&collections=LetsGoPikachuLetsGoEevee&languages=zh-Hans%2Czh-Hans-CN">Poké Corpus</a>, or by checking out the <a href="https://bulbapedia.bulbagarden.net/wiki/User:Abcboy#Text_dumps" rel="noopener noreferrer">text dumps</a> yourself.
 
-Special thanks to <span lang="zh-cmn-Hans">果冻</span> for their assistance.
+Special thanks to <span lang="zh-cmn-Hans">果冻</span> for making this possible.
