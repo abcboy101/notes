@@ -240,7 +240,7 @@ though the fire itself in Flamethrower still retains its orange color.
 
 Even though these three moves aren't Fire-type moves, they still have warm-colored elements that are changed to a cool colorscheme.
 
-Here's the full list of moves which has their files modified:
+Here's the full list of moves which had their files modified:
 <table>
 <tr>
 <td>
@@ -691,9 +691,9 @@ Unlike in *New Pokémon Snap*, which translated the role titles into Chinese, it
 
 Here, you can see how the companies that worked on the game were marked with <span lang="zh-cmn-Hans">开发公司</span> <i>kāifā gōngsī</i> (development company).
 This was probably done as a workaround to allow these names to be kept in English;
-New Pokémon Snap wrote redundant credits like <span lang="zh-cmn-Hans">音响制作：HALF HP STUDIO（音响制作公司）</span> <i>Yīnxiǎng Zhìzuò: HALF HP STUDIO (yīnxiǎng zhìzuò gōngsī)</i> "Sound Production: HALF HP STUDIO (sound production company)" likely for similar reasons.
+New Pokémon Snap probably wrote redundant credits like <span lang="zh-cmn-Hans">音响制作：HALF HP STUDIO（音响制作公司）</span> <i>Yīnxiǎng Zhìzuò: HALF HP STUDIO (yīnxiǎng zhìzuò gōngsī)</i> "Sound Production: HALF HP STUDIO (sound production company)" for similar reasons.
 
-For reference, the mainland dub of *Pokémon Journeys* actually went so far as to translate "HALF H·P STUDIO" as <span lang="zh-cmn-Hans">半马力工作室</span> <i>Bàn Mǎlì Gōngzuòshì</i> (Half Horsepower Studio), and "OLM Team Kato" as <span lang="zh-cmn-Hans">东方光魔加藤工作室</span> <i>Dōngfāng Guāngmó Jiāténg Gōngzuòshì</i> (Oriental Light and Magic, Kato Studio).
+For reference, the mainland dub of *Pokémon Journeys* actually went so far as to translate "HALF H·P STUDIO" as <span lang="zh-cmn-Hans">半马力工作室</span> <i>Bàn Mǎlì Gōngzuòshì</i> (Half Horsepower Studio), and "OLM Team Kato" as <span lang="zh-cmn-Hans">东方光魔加藤工作室</span> <i>Dōngfāng Guāngmó Jiāténg Gōngzuòshì</i> (Oriental Light and Magic, Kato Studio); so it's not without precendent for companies whose names are normally written in the Latin alphabet to use Chinese names in mainland China.
 
 <table>
 <tr>
@@ -775,9 +775,9 @@ The "THE END" screen after the credits is also translated into Chinese.
 
 
 ## Sensitive words
-Many of these changes were actually present in the international versions of Pokémon Brilliant Diamond and Shining Pearl.
-It's probable that most of the work that was done on LGPE was already finished by the time BDSP came out.
-I won't include these changes below.
+There are several changes to move, Ability, and item names that we already saw starting in the international versions of Pokémon Brilliant Diamond and Shining Pearl.
+It's probable that most of the work that was done on LGPE for China was already finished by the time BDSP came out.
+None of these changes are included below.
 
 ### Trainer types
 The names of the following types of Trainers were changed:
