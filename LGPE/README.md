@@ -820,7 +820,7 @@ In addition to the ones listed earlier, the names of the following items of clot
 
 These change:
 - "Team Rocket" (<span lang="zh-cmn-Hans">火箭队</span>) to "Team Uniform" (<span lang="zh-cmn-Hans">队服</span>)
-- "Police" (<span lang="zh-cmn-Hans">火箭队</span>) to "Patrol" (<span lang="zh-cmn-Hans">巡逻</span>)
+- "Police" (<span lang="zh-cmn-Hans">警察</span>) to "Patrol" (<span lang="zh-cmn-Hans">巡逻</span>)
 
 This is presumably to avoid wording it in such a way that makes it seem like the player is becoming a member of a criminal organization, or impersonating a police officer.
 
