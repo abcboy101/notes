@@ -1,6 +1,6 @@
 # New Pokémon Snap
-In mainland China, the <a href="https://www.nppa.gov.cn_" rel="noopener noreferrer">National Press and Publication Administration</a> (<span lang="zh-cmn-Hans">国家新闻出版署</span>) approves all video games for release, regardless of whether it was developed domestically or internationally.
-New Pokémon Snap was <a href="https://www.nppa.gov.cn_bsfw/jggs/yxspjg/jkwlyxspxx/202402/t20240202_831561.html" rel="noopener noreferrer">approved for release</a> on February 1, 2024, and was released for the Nintendo Switch on July 16 that year.
+In mainland China, the <a href="https://www.nppa.gov.cn/" rel="noopener noreferrer">National Press and Publication Administration</a> (<span lang="zh-cmn-Hans">国家新闻出版署</span>) approves all video games for release, regardless of whether it was developed domestically or internationally.
+New Pokémon Snap was <a href="https://www.nppa.gov.cn/bsfw/jggs/yxspjg/jkwlyxspxx/202402/t20240202_831561.html" rel="noopener noreferrer">approved for release</a> on February 1, 2024, and was released for the Nintendo Switch on July 16 that year.
 
 The following changes are present between the Simplified Chinese language option released internationally and the mainland Chinese release.
 Note that while we can see that these changes are present, we can't necessarily tell *who* was behind the change:
