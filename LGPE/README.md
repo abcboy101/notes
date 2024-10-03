@@ -21,7 +21,7 @@ some of these changes may have been pre-emptive self-censorship by Nintendo, iQu
 </tr>
 <tr>
 <td>Let's Go, Eevee! logo</td>
-<td lang="zh-cmn-Hans"><img src="cn/title_logo_v_00.png" alt="宝可梦 走吧！皮卡丘" width="250" height="120"><br>"宝可梦 走吧！皮卡丘"</td>
+<td lang="zh-cmn-Hans"><img src="cn/title_logo_v_00.png" alt="宝可梦 走吧！皮卡丘" width="250" height="120"><br>"宝可梦 走吧！伊布"</td>
 <td lang="zh-cmn-Hans"><img src="intl/title_logo_v_00.png" alt="精灵宝可梦 Let's Go! 伊布" width="250" height="120"><br>"精灵宝可梦 Let's Go! 伊布"</td>
 </tr>
 </table>
