@@ -134,7 +134,7 @@ In the mainland Chinese versions, the ability to transfer Pokémon from Pokémon
 
 Other NPCs that refer to GO Park have their dialogue edited so as not to mention it, typically either by removing the offending sentence or by making the sentence refer to Fuchsia City in general instead.
 
-Meltan and Melmetal can still be obtained by trading them over from the international version, though the Meltan and Melmetal Master Trainers have been removed.
+Meltan and Melmetal can still be obtained by trading them over from the international version. This means that players are still able to obtain the Meltan and Melmetal Master titles from their respective Master Trainers. <i>(EDIT: A previous version of this article claimed the Meltan and Melmetal Master Trainers were removed; this was incorrect.)</i>
 
 <table>
 <tr>
