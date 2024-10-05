@@ -1,8 +1,8 @@
 # New Pokémon Snap
-In mainland China, the <a href="https://www.nppa.gov.cn/" rel="noopener noreferrer">National Press and Publication Administration</a> (<span lang="zh-cmn-Hans">国家新闻出版署</span>) approves all video games for release, regardless of whether it was developed domestically or internationally.
+In China, the <a href="https://www.nppa.gov.cn/" rel="noopener noreferrer">National Press and Publication Administration</a> (<span lang="zh-cmn-Hans">国家新闻出版署</span>) approves all video games for release, regardless of whether it was developed domestically or internationally.
 New Pokémon Snap was <a href="https://www.nppa.gov.cn/bsfw/jggs/yxspjg/jkwlyxspxx/202402/t20240202_831561.html" rel="noopener noreferrer">approved for release</a> on February 1, 2024, and was released for the Nintendo Switch on July 16 that year.
 
-The following changes are present between the Simplified Chinese language option released internationally and the mainland Chinese release.
+The following changes are present between the Simplified Chinese language option released internationally and the Chinese release.
 Note that while we can see that these changes are present, we can't necessarily tell *who* was behind the change:
 some of these changes may have been pre-emptive self-censorship by Nintendo, iQue, or Tencent rather than censored by the Chinese government per se.
 
@@ -64,7 +64,7 @@ This also affects the photo frames that include the game's logo.
 In many older video games, memory limitations necessitated them to use only a small amount of memory, so they often couldn't support languages with more characters like Chinese, Japanese, or Korean. Because of this, they were often written in English and left in English when exported to other regions.
 
 Since it's typically acceptable to leave some terms untranslated in video games in these languages, these graphics all use English text in every language in the international version of the game.
-However, for the mainland Chinese version, these graphics are replaced with ones localized to simplified Chinese.
+However, for the Chinese version, these graphics are replaced with ones localized to simplified Chinese.
 (Since the game's language select has been removed, it makes no difference whether this would affect other language versions.)
 
 
@@ -157,7 +157,7 @@ I'll describe the differences for each in turn:
   These were translated as their Chinese equivalents "<span lang="zh-cmn-Hans">编号</span>" (number), "<span lang="zh-cmn-Hans">米</span>" (meters), "<span lang="zh-cmn-Hans">千克</span>" (kilograms).
   They haven't had to do this previously on the TCG cards, so we'll have to see whether this will carry over to the main games.
 - The international version has two online rankings: "All Languages" and "Your Language".
-  Since the mainland Chinese version doesn't communicate online with the international version, the "All Languages" option is removed.
+  Since the Chinese version doesn't communicate online with the international version, the "All Languages" option is removed.
 
 
 ## Photodex entries

@@ -1,8 +1,8 @@
 # Let's Go, Pikachu/Eevee!
-In mainland China, the <a href="https://www.nppa.gov.cn/" rel="noopener noreferrer">National Press and Publication Administration</a> (<span lang="zh-cmn-Hans">国家新闻出版署</span>) approves all video games for release, regardless of whether it was developed domestically or internationally.
-Almost six years after its original release, <i>Pokémon: Let's Go, Eevee!</i> was <a href="https://www.nppa.gov.cn/bsfw/jggs/yxspjg/jkwlyxspxx/202402/t20240202_831561.html" rel="noopener noreferrer">approved for release</a> on April 7, <i>Pokémon: Let's Go, Pikachu!</i> was approved for release on June 5, and both games were released for the Nintendo Switch on September 26, 2024. This makes it the second Pokémon game release on the Nintendo Switch in mainland China, after [New Pokémon Snap](../NPS/README.md).
+In China, the <a href="https://www.nppa.gov.cn/" rel="noopener noreferrer">National Press and Publication Administration</a> (<span lang="zh-cmn-Hans">国家新闻出版署</span>) approves all video games for release, regardless of whether it was developed domestically or internationally.
+Almost six years after its original release, <i>Pokémon: Let's Go, Eevee!</i> was <a href="https://www.nppa.gov.cn/bsfw/jggs/yxspjg/jkwlyxspxx/202402/t20240202_831561.html" rel="noopener noreferrer">approved for release</a> on April 7, <i>Pokémon: Let's Go, Pikachu!</i> was approved for release on June 5, and both games were released for the Nintendo Switch on September 26, 2024. This makes it the second Pokémon game release on the Nintendo Switch in China, after [New Pokémon Snap](../NPS/README.md).
 
-The following changes are present between the Simplified Chinese language option released internationally and the mainland Chinese release.
+The following changes are present between the Simplified Chinese language option released internationally and the Chinese release.
 Note that while we can see that these changes are present, we can't necessarily tell *who* was behind the change:
 some of these changes may have been pre-emptive self-censorship by Nintendo, iQue, or Tencent rather than censored by the Chinese government per se.
 
@@ -30,7 +30,7 @@ Initially, the Chinese games used <span lang="zh-cmn-Hans">精灵宝可梦</span
 
 Games with English words, especially those code-mixed with Chinese, often don't get approval. This notably affects the words "Let's Go!" in the title of the game, which were swapped for an equivalent Chinese phrase in <span lang="zh-cmn-Hans">走吧！</span> <i>Zǒu Ba!</i>. This also affects Professor Oak's "world of Pokémon" intro, since he originally said "Let's go!" in English words in the international version.
 
-The English subtitle was likely originally present only for the Hong Kong market, since there's been some controversy over how the Mandarin names don't sound as close to the original in Cantonese. There was no reason to keep this for the Mainland Chinese market, so it's been removed.
+The English subtitle was likely originally present only for the Hong Kong market, since there's been some controversy over how the Mandarin names don't sound as close to the original in Cantonese. There was no reason to keep this for the Chinese market, so it's been removed.
 
 <table>
 <tr>
@@ -46,7 +46,7 @@ The English subtitle was likely originally present only for the Hong Kong market
 </table>
 
 In the international versions, the name of GAME FREAK is kept in English in all languages.
-In the mainland Chinese version, the company's name is translated into Chinese.
+In the Chinese version, the company's name is translated into Chinese.
 
 
 ## Language select
@@ -61,7 +61,7 @@ In the mainland Chinese version, the company's name is translated into Chinese.
 </tr>
 </table>
 
-In the mainland Chinese versions, all of the other language options besides Simplified Chinese (<span lang="zh-cmn-Hans">简体中文</span>) are removed.
+In the Chinese versions, all of the other language options besides Simplified Chinese (<span lang="zh-cmn-Hans">简体中文</span>) are removed.
 They are still in the game data though, and will still display properly if the save file is edited to specify a different language.
 
 For comparison, in New Pokémon Snap, they actually skipped the equivalent screen, but whoever was working on this localization probably though it was easier to just delete the other options from this menu instead.
@@ -130,7 +130,7 @@ in the Playful Park instead.</td>
 </tr>
 </table>
 
-In the mainland Chinese versions, the ability to transfer Pokémon from Pokémon GO is removed. This was done by removing the "Open Pokémon GO Settings" option in the Options menu, and blocking the entrance to the GO Park complex with a Youngster.
+In the Chinese versions, the ability to transfer Pokémon from Pokémon GO is removed. This was done by removing the "Open Pokémon GO Settings" option in the Options menu, and blocking the entrance to the GO Park complex with a Youngster.
 
 Other NPCs that refer to GO Park have their dialogue edited so as not to mention it, typically either by removing the offending sentence or by making the sentence refer to Fuchsia City in general instead.
 
@@ -155,10 +155,10 @@ The "NEW" graphic is changed to be in Chinese, though I don't believe it ends up
 ## Location names
 The location name "GO Park complex" (<span lang="zh-cmn-Hans">GO Park</span>), as well as all event Pokémon met locations except "Poké Ball Plus" (such as "a lovely place", "a Pokémon Center", "a Pokémon movie", etc.), are changed to "faraway place" (<span lang="zh-cmn-Hans">遥远的地方</span>).
 This can be seen on the summary screen if a Pokémon with one of these met locations is traded locally from the international version.
-Many of these reference events, locations, or games not released in mainland China, so they're all just censored to prevent their names from possibly showing up in-game.
+Many of these reference events, locations, or games not released in China, so they're all just censored to prevent their names from possibly showing up in-game.
 
 ## Move animations
-A total of 61 moves had their animations changed. While I haven't checked all of them, I've taken screenshots of the following nine moves in both the mainland Chinese version and the international version for your viewing pleasure.
+A total of 61 moves had their animations changed. While I haven't checked all of them, I've taken screenshots of the following nine moves in both the Chinese version and the international version for your viewing pleasure.
 
 <table>
 <tr>
@@ -386,7 +386,7 @@ Did you notice what they all have in common?
 </table>
 
 It turns out that a cuttable plant is visible in each of these screenshots.
-Instead of being a small, leafy tree like in the original, the mainland Chinese version replaces it with what appears to be a dead, thorny plant.
+Instead of being a small, leafy tree like in the original, the Chinese version replaces it with what appears to be a dead, thorny plant.
 
 Like many countries, the Chinese government regulates cutting down trees in an effort to prevent deforestation.
 By replacing the mostly harmless tree with a plant that has dangerous thorns, this justifies the player's actions in cutting it down to get through.
@@ -434,7 +434,7 @@ The Secret Technique Chop Down is also renamed from <span lang="zh-cmn-Hans">袈
 
 Like in Pokémon GO, making a Nice, Great, or Excellent Throw causes the corresponding text to be displayed. Even in the international Japanese and Chinese versions, this text is still written in English, as it's typically acceptable to leave terms like these untranslated in video games.
 
-For the mainland Chinese version, these graphics are replaced with ones localized to simplified Chinese.
+For the Chinese version, these graphics are replaced with ones localized to simplified Chinese.
 
 <table>
 <tr>
@@ -472,7 +472,7 @@ When a Pokémon levels up, this message is displayed. Like with the throws, this
 
 Like in Pokémon GO, encountering a particularly large or small Pokémon causes some text to be displayed. In the international Japanese and Chinese versions, this text is still written in English, though in Japanese it's subtitled with <span lang="ja">おおきい</span> <i>ōki</i> and <span lang="ja">ちいさい</span> <i>chiisai</i>.
 
-For the mainland Chinese version, these graphics are replaced with ones localized to simplified Chinese. While the international version used two fonts of different weights for each graphic, it seems like whoever put together the mainland Chinese graphic didn't notice, and used the same font for both. (This is most noticeable with the exclamation marks.)
+For the Chinese version, these graphics are replaced with ones localized to simplified Chinese. While the international version used two fonts of different weights for each graphic, it seems like whoever put together the Chinese graphic didn't notice, and used the same font for both. (This is most noticeable with the exclamation marks.)
 
 <table>
 <tr>
@@ -694,7 +694,7 @@ Here, you can see how the companies that worked on the game were marked with <sp
 This was probably done as a workaround to allow these names to be kept in English;
 New Pokémon Snap probably wrote redundant credits like <span lang="zh-cmn-Hans">音响制作：HALF HP STUDIO（音响制作公司）</span> <i>Yīnxiǎng Zhìzuò: HALF HP STUDIO (yīnxiǎng zhìzuò gōngsī)</i> "Sound Production: HALF HP STUDIO (sound production company)" for similar reasons.
 
-For reference, the mainland dub of *Pokémon Journeys* actually went so far as to translate "HALF H·P STUDIO" as <span lang="zh-cmn-Hans">半马力工作室</span> <i>Bàn Mǎlì Gōngzuòshì</i> (Half Horsepower Studio), and "OLM Team Kato" as <span lang="zh-cmn-Hans">东方光魔加藤工作室</span> <i>Dōngfāng Guāngmó Jiāténg Gōngzuòshì</i> (Oriental Light and Magic, Kato Studio); so it's not without precendent for companies whose names are normally written in the Latin alphabet to use Chinese names in mainland China.
+For reference, the dub of *Pokémon Journeys* actually went so far as to translate "HALF H·P STUDIO" as <span lang="zh-cmn-Hans">半马力工作室</span> <i>Bàn Mǎlì Gōngzuòshì</i> (Half Horsepower Studio), and "OLM Team Kato" as <span lang="zh-cmn-Hans">东方光魔加藤工作室</span> <i>Dōngfāng Guāngmó Jiāténg Gōngzuòshì</i> (Oriental Light and Magic, Kato Studio); so it's not without precendent for companies whose names are normally written in the Latin alphabet to use Chinese names in China.
 
 <table>
 <tr>
